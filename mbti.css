@@ -52,7 +52,7 @@ h1{
   font-weight: 700;
   font-style: normal;
   font-size: 60px;
-  margin-top:-83%;
+  margin-top:-82%;
   margin-left:15%;
   color:#E85147;
   width:400px;
@@ -61,7 +61,7 @@ h1{
 #returnlink{
   position:absolute;
   text-decoration: none;
-  margin-top:-85%;
+  margin-top:-84%;
   margin-left:15.3%;
   width:200px;
 }
@@ -95,7 +95,7 @@ h2{
   cursor:pointer;
   width:135px;
   height: 40px;
-  margin-top:-1050px;
+  margin-top:-1110px;
   z-index:2;
 }
 
@@ -123,9 +123,9 @@ h2{
 }
 
 #faqbox{
-  margin-left:15.5%;
+  margin-left:17%;
   margin-top:-85%;
-  width:600px;
+  width:500px;
 
 }
 
@@ -323,6 +323,7 @@ div.sticky {
   grid-column: 2/span 6;
   grid-row: 2/4;
   padding-top:20px;
+  margin-left:30px;
   order:-1;
 }
 
@@ -334,49 +335,49 @@ div.sticky {
 }
 
 #mbIntroversion{
-  margin-left: 240px;
+  margin-left: 280px;
   margin-top:147px;
 }
 
 #mbIntroversionBox{
   background-color:#8BAF3E;
-  margin-left: 440px;
+  margin-left: 480px;
   margin-top:150px;
   border-radius:90px 90px 90px 90px;
 }
 
 #mbSensing{
-  margin-left: 500px;
+  margin-left: 540px;
   margin-top:147px;
 }
 
 #mbSensingBox{
   background-color:#208A70;
-  margin-left: 640px;
+  margin-left: 680px;
   margin-top:150px;
   border-radius:90px 90px 90px 90px;
 }
 
 #mbThinking{
-  margin-left: 300px;
+  margin-left: 340px;
   margin-top:197px;
 }
 
 #mbThinkingBox{
   background-color:#E8854D;
-  margin-left: 440px;
+  margin-left: 480px;
   margin-top:199px;
   border-radius:90px 90px 90px 90px;
 }
 
 #mbJudging{
-  margin-left: 482px;
+  margin-left: 522px;
   margin-top:197px;
 }
 
 #mbJudgingBox{
   background-color:#00ADBF;
-  margin-left: 640px;
+  margin-left: 680px;
   margin-top:199px;
   border-radius:90px 90px 90px 90px;
 }
@@ -387,6 +388,7 @@ div.sticky {
   grid-column: 2/span 6;
   grid-row: 2/4;
   padding-top: 20px;
+  margin-left:40px;
   order:-1;
 }
 
@@ -398,73 +400,73 @@ div.sticky {
 }
 
 #hOpenness{
-  margin-left: 195px;
+  margin-left: 225px;
   margin-top:147px;
 }
 
 #hOpennessBox{
   background-color:#E8854D;
-  margin-left: 280px;
+  margin-left: 320px;
   margin-top:150px;
   border-radius:90px 90px 90px 90px;
 }
 
 #hConscience{
-  margin-left: 130px;
+  margin-left: 170px;
   margin-top:196px;
 }
 
 #hConscienceBox{
   background-color:#855BA6;
-  margin-left: 280px;
+  margin-left: 320px;
   margin-top:199px;
   border-radius:90px 90px 90px 90px;
 }
 
 #hExtraversion{
-  margin-left: 350px;
+  margin-left: 390px;
   margin-top:147px;
 }
 
 #hExtraversionBox{
   background-color:#8BAF3E;
-  margin-left: 453px;
+  margin-left: 493px;
   margin-top:150px;
   border-radius:90px 90px 90px 90px;
 }
 
 #hAgreeableness{
-  margin-left: 519px;
+  margin-left: 559px;
   margin-top:147px;
 }
 
 #hAgreeablenessBox{
   background-color:#00ADBF;
-  margin-left: 640px;
+  margin-left: 680px;
   margin-top:150px;
   border-radius:90px 90px 90px 90px;
 }
 
 #hNeuroticism{
-  margin-left: 350px;
+  margin-left: 390px;
   margin-top:196px;
 }
 
 #hNeuroticismBox{
   background-color:#208A70;
-  margin-left: 453px;
+  margin-left: 493px;
   margin-top:199px;
   border-radius:90px 90px 90px 90px;
 }
 
 #hHonesty{
-  margin-left: 565px;
+  margin-left: 605px;
   margin-top:196px;
 }
 
 #hHonestyBox{
   background-color:#BE1E2D;
-  margin-left: 640px;
+  margin-left: 680px;
   margin-top:199px;
   border-radius:90px 90px 90px 90px;
 }
@@ -476,6 +478,7 @@ div.sticky {
   grid-row: 2/4;
   padding-top: 20px;
   order:-1;
+  margin-left:40px;
   width:600px;
 }
 
@@ -487,37 +490,37 @@ div.sticky {
 }
 
 #gramThinking{
-  margin-left: 413px;
+  margin-left: 453px;
   margin-top:147px;
 }
 
 #gramThinkingBox{
   background-color:#00ADBF;
-  margin-left: 490px;
+  margin-left: 530px;
   margin-top:150px;
   border-radius:90px 90px 90px 90px;
 }
 
 #gramFeeling{
-  margin-left: 575px;
+  margin-left: 615px;
   margin-top:147px;
 }
 
 #gramFeelingBox{
   background-color:#E8854D;
-  margin-left: 640px;
+  margin-left: 680px;
   margin-top:150px;
   border-radius:90px 90px 90px 90px;
 }
 
 #gramInstinct{
-  margin-left: 571px;
+  margin-left: 611px;
   margin-top:197px;
 }
 
 #gramInstinctBox{
   background-color:#8BAF3E;
-  margin-left: 640px;
+  margin-left: 680px;
   margin-top:199px;
   border-radius:90px 90px 90px 90px;
 }
@@ -527,7 +530,7 @@ div.sticky {
 #myersButtons{
   grid-column:1/span 15;
   grid-row:12/span 16;
-  padding-left:30px;
+  padding-left:80px;
   z-index:1;
 }
 
@@ -594,7 +597,7 @@ div.sticky {
 #hexButtons{
   grid-column:1/span 13;
   grid-row:12/16;
-  margin-left:-30px;
+  margin-left:15px;
 }
 
 .button-group2:after {
@@ -619,6 +622,7 @@ div.sticky {
 #gramButtons{
   grid-column:4/span 13;
   grid-row:12/16;
+  margin-left:10px;
 }
 
 .button-group3:after {
@@ -669,7 +673,7 @@ div.sticky {
 #myers1 {
   text-align:right;
   width:580px;
-  padding-left:80px;
+  padding-left:130px;
 }
 
 #myers2div{
@@ -689,7 +693,7 @@ div.sticky {
 #hexaco1 {
   text-align:right;
   width:580px;
-  padding-left:80px;
+  padding-left:130px;
 }
 
 #hexaco2div{
@@ -709,7 +713,7 @@ div.sticky {
 #enneagram1 {
   text-align:right;
   width:580px;
-  padding-left:80px;
+  padding-left:130px;
 }
 
 #enneagram2div{
